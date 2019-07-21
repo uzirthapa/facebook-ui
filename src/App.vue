@@ -1,28 +1,38 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <Toolbar/>
+    <DrawerLeft/>
+    <DrawerRight/>
+
+    <v-content>
+      <Feed/>
+    </v-content>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Toolbar from './components/ToolBar'
+import DrawerLeft from './components/DrawerLeft'
+import DrawerRight from './components/DrawerRight'
+import Feed from './components/Feed'
 
 export default {
-  name: 'app',
+  name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    Toolbar,
+    DrawerLeft,
+    DrawerRight,
+    Feed
+  },
+  data: () => ({
+    //
+  }),
+};
 </script>
-
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+@import url("https://fonts.googleapis.com/css?family=Questrial");
+
+.questrial {
+  font-family: "Questrial";
 }
 </style>
