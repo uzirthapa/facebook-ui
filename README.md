@@ -7,7 +7,7 @@ The end result is what you see in this project.
 
 Please check out the [YouTube video] () as well if you would like!
 
-##Links to Resources
+## Links to Resources
 
 [YouTube]()
 
@@ -17,9 +17,7 @@ Please check out the [YouTube video] () as well if you would like!
 
 [Facebook](https://www.facebook.com/)
 
-[FacebookUI](https://dribbble.com/shots/5905328-Facebook-Concept-Home)
-
-Shoutout to Yi Li
+[FacebookUI](https://dribbble.com/shots/5905328-Facebook-Concept-Home) Shoutout to Yi Li
 
 [FacebookEmojis](https://emojipedia.org/messenger/1.0/)
 
