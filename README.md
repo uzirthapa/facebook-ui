@@ -10,12 +10,19 @@ Please check out the [YouTube video] () as well if you would like!
 ##Links to Resources
 
 [YouTube]()
-[Vuejs]()
-[Vuetify]()
-[Facebook]()
+
+[Vuejs](https://vuejs.org/)
+
+[Vuetify](https://vuetifyjs.com/en/)
+
+[Facebook](https://www.facebook.com/)
+
 [FacebookUI](https://dribbble.com/shots/5905328-Facebook-Concept-Home)
+
 Shoutout to Yi Li
+
 [FacebookEmojis](https://emojipedia.org/messenger/1.0/)
+
 [AvatarGenerator](https://avatarmaker.com/)
 
 
