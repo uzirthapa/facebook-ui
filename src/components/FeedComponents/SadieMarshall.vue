@@ -1,5 +1,5 @@
 <template>
-    <v-card rounded elevation="1">
+    <v-card rounded outlined>
         <div>
             <v-list-item>
                 <v-list-item-avatar>

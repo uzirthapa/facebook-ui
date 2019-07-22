@@ -1,7 +1,7 @@
 <template>
     <v-navigation-drawer width="300px" color="grey lighten-5" floating clipped app permanent>
         <v-container>
-            <v-card dark color="indigo darken-1">
+            <v-card dark color="indigo darken-1" rounded outlined>
                  <v-list-item class="pt-5">
                     <v-list-item-avatar>
                         <img src="https://cdn.quasar.dev/img/boy-avatar.png" alt="John">
@@ -44,7 +44,7 @@
                     </v-list-item-group>
                 </v-list>
             </v-card>
-            <v-card class="mt-3">
+            <v-card class="mt-3" rounded outlined>
                 <v-card-title class="mb-2">
                     <div class="questrial body-2 font-weight-bold">News</div>
                     <v-spacer></v-spacer>
@@ -68,7 +68,7 @@
                     </v-list-item-content>
                 </v-list-item>
             </v-card>
-            <v-card class="mt-2">
+            <v-card class="mt-2" rounded outlined>
                <v-card-title class="mb-2">
                     <div class="questrial body-2 font-weight-bold">Gallery</div>
                     <div class="questrial caption font-weight-bold ml-4 grey--text text--darken-1">132 Pics</div>

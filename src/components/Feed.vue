@@ -4,7 +4,7 @@
             <v-flex xs12 sm6>
                 <v-layout wrap column>
                     <v-flex xs12>
-                        <v-card rounded elevation="1">
+                        <v-card rounded outlined>
                             <v-card-title>
                                 <v-layout>
                                     <v-btn text class="questrial font-weight-bold text-none">Make Post</v-btn>
